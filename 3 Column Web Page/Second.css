@@ -1,0 +1,70 @@
+body{
+background-image:url("Images/light3.jpg");
+}
+
+#sec{
+width:20%;
+float:Right;
+border-radius:10px;
+border:1px solid black;
+padding:5px;
+}
+
+div#sec hr{
+background-color: red;
+height: 5px;
+width: 100%;
+} 
+
+div#outer h1{
+text-align:center;
+}
+
+div#outerinner h1{
+text-align:center;
+}
+
+
+
+#inner{
+width:20%;
+border:1px solid black;
+padding:5px;
+float:left;
+border-radius:10px;
+}
+
+div#inner ul{
+list-style-type:square;
+}
+
+#outer
+{
+border:1px solid black;
+border-radius:10px;
+box-shadow:1px 1px;
+width:58%;
+margin:auto;
+padding:1px;
+}
+
+div#outer h1{
+font-style:italic;
+}
+
+#outermost{
+border:1px solid black;
+width:57%;
+margin:auto;
+border-radius:10px;
+margin-top:2px;
+padding:5px;
+}
+
+#outerinner{
+border:1px solid black;
+border-radius:10px;
+width:57%;
+margin:auto;
+height:100px;
+}
